@@ -9,8 +9,10 @@ activityCompose = "1.13.0"
 kotlin = "2.2.10"
 composeBom = "2026.02.01"
 
-# DataStore + Coil
+# DataStore
 datastore = "1.1.1"
+
+# Coil
 coil = "3.0.4"
 
 # Hilt / KSP
